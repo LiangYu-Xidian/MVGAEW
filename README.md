@@ -1,13 +1,13 @@
 # MVGAEW
 The code for paper " Identifying disease-related microbes based on multi-scale variational graph autoencoder embedding wasserstein distance "
 
-./HMDAD/Disease_semantic_similarity.csv 
-./HSDN/final-symptom-disease-similarity.csv 
+./HMDAD/Disease_semantic_similarity.csv
+./HSDN/final-symptom-disease-similarity.csv
 ./graph2mda/microbe_fun_sim_mdad_abio.csv microbe similarity based on common durg
 
 
-args.py 
-get_sim.py 
+args.py
+get_sim.py
 HMDAD_all.py overall framework of graph embedding
 layers.py implemention of Wassertein distance
 models3.py implemention
