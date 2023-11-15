@@ -1,0 +1,55 @@
+,1,2,3
+5,6,Acinetobacter sp.,2.0
+6,7,Actinobacillus actinomycetemcomitans,3.0
+7,8,Actinomyces oris,5.0
+9,10,Aeromonas hydrophila,7.0
+11,12,Aggregatibacter actinomycetemcomitans,8.0
+19,20,Bacillus cereus,23.0
+22,23,Bacteroides,50.0
+23,24,Bacteroides eggerthii,51.0
+24,25,Bacteroides fragilis,53.0
+25,26,Bacteroides uniformis,58.0
+26,27,Bacteroides vulgatus,59.0
+28,29,Burkholderia cenocepacia,68.0
+43,44,Citrobacter freundii,92.0
+44,45,Clostridium bacilli,105.0
+45,46,Clostridium leptum,110.0
+49,50,Corynebacterium ammoniagenes,119.0
+50,51,Cronobacter sakazakii,121.0
+53,54,Desulfovibrio africanus,125.0
+55,56,Edwardsiella tarda,131.0
+56,57,Eggerthella lenta,132.0
+58,59,Enteric bacteria and other eubacteria,133.0
+59,60,Enterobacter aerogenes,134.0
+63,64,Enterobacteria phage T4,136.0
+64,65,Enterococcus faecalis,138.0
+65,66,Enterococcus faecium,139.0
+67,68,Escherichia coli,145.0
+68,69,Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC),146.0
+69,70,Eubacterium ramulus,147.0
+70,71,Firmicutes,154.0
+73,74,Gardnerella vaginalis,163.0
+75,76,Haemophilus influenzae,165.0
+76,77,Hafnia alvei,167.0
+93,94,Klebsiella planticola,177.0
+94,95,Klebsiella pneumoniae,178.0
+97,98,Lactobacillus fermenti,183.0
+111,112,Pantoea agglomerans,208.0
+114,115,Porphyromonas gingivalis,222.0
+115,116,Propionibacterium acnes,229.0
+116,117,Proteus mirabilis,230.0
+120,121,Pseudomonas aeruginosa,231.0
+127,128,Salmonella enterica,245.0
+130,131,Serratia liquefaciens,248.0
+133,134,Shigella flexneri,249.0
+134,135,Sphingomonas sp. Ibu-2,253.0
+135,136,Staphylococcus aureus,255.0
+140,141,Staphylococcus epidermidis,256.0
+144,145,Staphylococcus saprophyticus,254.0
+145,146,Stenotrophomonas maltophilia,257.0
+146,147,Streptococcus epidermidis,260.0
+148,149,Streptococcus mitis,262.0
+151,152,Streptococcus parasanguinis,263.0
+155,156,Streptococcus salivarius,264.0
+166,167,Vibrio anguillarum,289.0
+172,173,Yersinia enterocolitica,291.0
