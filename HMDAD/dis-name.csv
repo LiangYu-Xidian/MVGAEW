@@ -1,0 +1,40 @@
+ID,Old disease,New disease,Mesh ID,,,,
+1,Colon cancer,Colon cancer,D003110,,,Colonic Neoplasms,D003110
+2,Periodontal,Periodontitis,D010510,1,,Periodontal Diseases,D010510
+3,Gastric and duodenal ulcer,Gastroenteritis,D005759,1,,Peptic Ulcer,D010437
+4,Gastro-oesophageal reflux,Gastroesophageal Reflux,D005764,1,,Gastroesophageal Reflux,D005764
+5,Guttate psoriasis,Psoriasis,D011565,1,,Psoriasis,D011565
+6,Atopy,Hypersensitivity,D006967,1,,Hypersensitivity,D006967
+7,Diarrhea Irritable bowel syndrome(IBS),Irritable Bowel Syndrome,D043183,1,,Irritable Bowel Syndrome,D043183
+8,Irritable bowel syndrome(IBS),Irritable Bowel Syndrome,D043183,1,,Irritable Bowel Syndrome,D043183
+9,Constipation Irritable bowel syndrome(IBS),Irritable Bowel Syndrome,D043183,1,,Irritable Bowel Syndrome,D043183
+10,Obesity,Obesity,D009765,1,,Obesity,D009765
+11,Ileal Crohn's disease(CD),Crohn Disease,D003424,1,,Crohn Disease,D003424
+12,Bacterial Vaginosis,Bacterial Vaginosis,D016585,,,"Vaginosis, Bacterial",D016585
+13,Infectious colitis,Colitis,D003092,1,,Colitis,D003092
+14,Ulcerative colitis,Ulcerative colitis,D003093,,,"Colitis, Ulcerative",D003093
+15,Crohn's disease(CD),Crohn Disease,D003424,1,,Crohn Disease,D003424
+16,Allergic sensitization,Hypersensitivity,D006967,1,,Hypersensitivity,D006967
+17,Atopic dermatitis,Atopic dermatitis,D003876,,,"Dermatitis, Atopic",D003876
+18,Atopic sensitisation,Hypersensitivity,D006967,1,,Hypersensitivity,D006967
+19,Eczema,Eczema,D004485,1,,Eczema,D004485
+20,Recurrent wheeze,Respiratory Sounds,D012135,,,Respiratory Sounds,D012135
+21,Allergy,Allergy,D006967,,,Hypersensitivity,D006967
+22,Asthma,Asthma,D001249,1,,Asthma,D001249
+23,Inflammatory bowel disease(IBD),Inflammatory bowel disease(IBD),D015212,,,Inflammatory Bowel Diseases,D015212
+24,Cystic fibrosis,Cystic fibrosis,D003550,,,Cystic Fibrosis,D003550
+25,Rheumatoid arthrits,Rheumatoid arthritis,D001172,,,"Arthritis, Rheumatoid",D001172
+26,Psoriasis,Psoriasis,D011565,1,,Psoriasis,D011565
+27,Necrotizing Enterocolitis,Necrotizing Enterocolitis,D020345,,,"Enterocolitis, Necrotizing",D020345
+28,Systemic inflammatory response syndrome,Systemic inflammatory response syndrome,D018746,,,Systemic Inflammatory Response Syndrome,D018746
+29,COPD,COPD,D029424,,,"Pulmonary Disease, Chronic Obstructive",D029424
+30,Type 2 diabetes,Type 2 diabetes,D003924,,,"Diabetes Mellitus, Type 2",D003924
+31,Type 1 diabetes,Type 1 diabetes,D003922,,,"Diabetes Mellitus, Type 1",D003922
+32,Colorectal carcinoma,Colorectal carcinoma,D015179,,,Colorectal Neoplasms,D015179
+33,Kidney stones,Kidney stones,D007669,,,Kidney Calculi,D007669
+34,Whipple's disease,Whipple's disease,D008061,,,Whipple Disease,D008061
+35,Liver cirrhosis,Liver cirrhosis,D008103,,,Liver Cirrhosis,D008103
+36,Allergic asthma,Asthma,D001249,,,Asthma,D001249
+37,Clostridium difficile infection(CDI),Clostridium difficile infection(CDI),D003015,,,Clostridium Infections,D003015
+38,Skin and mucosal infections,Staphylococcal Skin Infections,D013207,1,,Staphylococcal Skin Infections,D013207
+39,New-onset untreated rheumatoid arthrits,Rheumatoid arthritis,D001172,,,"Arthritis, Rheumatoid",D001172
